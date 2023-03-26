@@ -15,7 +15,7 @@ Console them to terminal e.g Question01 > result
 Don’t post the solution code in group, only post the terminal result
 
 
-
+```javascript
 Question-01
 
 What values do the following expressions evaluate to, console the results?
@@ -73,6 +73,7 @@ Write a js program to check whether a number is even or odd.
 Question-08 
 
 Write a js program to check whether character is an alphabet or not
+```
 
 Submit: Post your assignment console screenshot in the group (https://www.facebook.com/groups/learnwithnaveedsarwar)
 
